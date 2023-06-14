@@ -1,0 +1,13 @@
+{
+    "problem_description": "This is the solution of the party problem in relativism",
+    "initialState": {
+        "host believes something wrong": "False",
+        "no trouble for the host": "False",
+        "some work for the host to do": "False"
+    },
+    "solution": "In relativism and based on its principles the maximum utility is for Not('telling the truth'), with -1, which causes to \"host believes something wrong\" consequence.",
+    "goal": "host believes something wrong",
+    "intentions": {
+        "host believes something wrong": "Not('telling the truth')"
+    }
+}
